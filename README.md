@@ -1,4 +1,4 @@
-### Hi there 👋 I am Jingchen Sun, a second-year computer science Ph.D. student at SUNY Buffalo.
+### Hi there 👋 I am Jingchen Sun, a CS Ph.D. student at SUNY Buffalo.
 
 <!--
 **Jingchensun/Jingchensun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
