@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 Education: Bachelor in NCEPU, Master in ZJU, Ph.D. in SUNY Buffalo (2022-).
-- 🏢 Experience: Internship in Baidu(2018), Bytedance(2021), Nokia Bell Labs(2023).
 - 👀 I’m interested in Deep Learning, Computer Vision, and Nature Language Processing.
 - 🌱 I’m currently learning: Large Language Models, Vision Language Models, and RLHF.
 - 👯 I’m looking to collaborate on all DL/CV/NLP-related works.
